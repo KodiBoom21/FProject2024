@@ -11,7 +11,7 @@ Cоздание семантической системы маркировки �
 
 ## Эксперементы
 
-- Baseline: [Maxent](https://github.com/dizys/nyu-nlp-homework-6)
+- Baseline: [Maxent](./src/Maxent)
 - Random Forest: [Notebook](./src/RandomForest.ipynb)
 - BERT (base): [Notebook](./src/bert_based.ipynb)
 - RoBERTA: [Notebook](./src/hf_transformer_roberta.ipynb)
